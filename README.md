@@ -1,6 +1,6 @@
 # Conversordemonedas
 Proyecto conversión de monedas en JAVA con consumo de API
-<h1 align="center">Hello amigos ! Soy Abel!
+<h1 align="center">Hola amigos ! Soy Abel!
   Este es mi proyecto de conversión de monedas👁️</h1>
 
 <div align="center">
